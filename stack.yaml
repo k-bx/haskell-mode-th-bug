@@ -1,0 +1,7 @@
+resolver: nightly-2017-01-25
+packages:
+- './subproj-base'
+- './subproj-main'
+extra-deps: []
+flags: {}
+extra-package-dbs: []
